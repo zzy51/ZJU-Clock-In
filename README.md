@@ -2,7 +2,10 @@
 
 ## What's New? (updated on May 7th)
 
-现已支持验证码识别+自动填写～
+<s>现已支持验证码识别+自动填写～</s>
+
+目前打卡验证码已取消，相关代码已经注释掉了：
+https://github.com/vtu81/ZJU-Clock-In/blob/b4d1f0cfbb140cd2c4b8859f6a09d1befb958317/clock-in.py#L120
 
 ## 使用须知
 
